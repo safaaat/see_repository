@@ -8,7 +8,9 @@ To view the project, click this link [See Repository](https://github.com/faceboo
 
 -- Api's uses [Link Api's Github](https://api.github.com), and there are restrictions on use. if it reaches the limit, the resulting output is 403.
 
-### `Teknologi`
+## Teknologi
 -- [React Js](https://github.com/facebook/create-react-app)
+
 -- [TypeScript](https://github.com/microsoft/TypeScript)
+
 -- [Redux](https://github.com/reduxjs/redux)
