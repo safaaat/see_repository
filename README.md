@@ -10,7 +10,5 @@ To view the project, click this link [See Repository](https://safaaat.github.io/
 
 ## Teknologi
 - [React Js](https://github.com/facebook/create-react-app)
-
 - [TypeScript](https://github.com/microsoft/TypeScript)
-
 - [Redux](https://github.com/reduxjs/redux)
